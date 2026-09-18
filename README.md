@@ -1,16 +1,48 @@
-# bitcoin
+# Coin Ticker 🤑
 
-A new Flutter project.
+A Flutter application that displays the current Bitcoin price in different fiat currencies using the CoinGecko API.
 
-## Getting Started
+## 📱 About
 
-This project is a starting point for a Flutter application.
+Coin Ticker allows users to check the Bitcoin price in their selected currency. The app fetches price data from the CoinGecko API and updates the displayed price when the currency changes.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Display Bitcoin price in different currencies.
+* Fetch cryptocurrency prices using the CoinGecko API.
+* Select currencies using a dropdown menu on Android.
+* Select currencies using a Cupertino picker on iOS.
+* Simple and clean user interface.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+### Android
+![Android Screenshot](screenshots/android.png)
+
+### iOS
+![iOS Screenshot](screenshots/ios.png)
+
+## 🛠️ Built With
+
+* Flutter
+* Dart
+* HTTP package
+* CoinGecko API
+
+## 🌍 Supported Currencies
+
+AUD, BRL, CAD, CNY, EUR, GBP, HKD, IDR, ILS, INR, JPY, MXN, NOK, NZD, PLN, RON, RUB, SEK, SGD, USD, ZAR
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+* Flutter SDK
+* Dart SDK
+* Android Studio or VS Code
+
+## 👩‍💻 Author
+
+**Bita Narimani**
+
+[GitHub Profile](https://github.com/BiTa5N)
