@@ -17,10 +17,13 @@ Coin Ticker allows users to check the Bitcoin price in their selected currency. 
 ## 📸 Screenshots
 
 ### Android
-![Android Screenshot](screenshots/android.png)
+<p align="center">
+  <img src="screenshots/android.png" width="45%" />
+  <img src="screenshots/ios.png" width="45%" />
+</p>
 
 ### iOS
-![iOS Screenshot](screenshots/ios.png)
+
 
 ## 🛠️ Built With
 
